@@ -1,0 +1,26 @@
+[{
+ "id": 1,
+ "title": "Black Coffee",
+ "price": "6",
+ "image": "/Images/bagels-for-breakfast.jpg"
+  
+},
+{
+  "id":2,
+  "title":"Mini-Pancakes",
+  "price":"10",
+  "image": "/Images/white-bowl-with-mini-pancakes-with-cut-strawberries.jpg"
+},
+{
+  "id":3,
+  "title": "Croissant",
+  "price":"500",
+  "image": "/Images/apple-and-brie-croissant-in-the-sun.jpg"
+},
+{
+  "id":4,
+  "title": "Breakfast",
+  "price":"1000",
+  "image": "/Images/breakfast-never-looked-so-tasty.jpg"
+}
+]
