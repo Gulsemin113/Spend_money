@@ -1,5 +1,5 @@
 
-![Spend_money](Spend_money.gif).
+![Spend_money](Spend_money.gif height:500px).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
